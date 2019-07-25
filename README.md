@@ -3,7 +3,7 @@
 ## URL Slide
 https://docs.google.com/presentation/d/1cK93TZS2U8gAO-3frtacnC_NAeIfzPuWOQsS9zR-Rv4/edit?usp=sharing
  
-## Descargar para la práctica 
+## Descargas para la práctica 
 
 Visual Studio 2019 Community Preview
 https://visualstudio.microsoft.com/vs/preview/
